@@ -1,7 +1,5 @@
 ### Hi there 👋
-<html>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-  </html>
+
 <!--
 **AyaLamsi/AyaLamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
